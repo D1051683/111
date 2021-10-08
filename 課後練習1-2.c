@@ -24,5 +24,5 @@ int main()
        }
    }
    
-   printf("%d",m);
+   printf("%d",&m);
 }
